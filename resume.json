@@ -72,7 +72,9 @@
       "location": {
         "city": "Montreal",
         "countryCode": "CA"
-      }
+      },
+      "startDate": "2019-10",
+      "endDate": "2021-03"
     },
     {
       "institution": "Metrocamp University",
@@ -81,7 +83,9 @@
       "location": {
         "city": "Campinas",
         "countryCode": "BR"
-      }
+      },
+      "startDate": "2007-06",
+      "endDate": "2009-01"
     },
     {
       "institution": "University of San Francisco",
@@ -90,14 +94,16 @@
       "location": {
         "city": "Itatiba",
         "countryCode": "BR"
-      }
+      },
+      "startDate": "2002-01",
+      "endDate": "2006-01"
     }
   ],
 
   "skills": [
     {
       "name": "Backend",
-      "keywords": ["Java", "Spring Boot", "REST APIs", "Microservices"]
+      "keywords": ["Java", "Spring Boot", "REST APIs", "Microservices", "Python"]
     },
     {
       "name": "DevOps",
@@ -110,6 +116,10 @@
     {
       "name": "Databases",
       "keywords": ["PostgreSQL", "MySQL"]
+    },
+    {
+      "name": "Automation",
+      "keywords": ["JSON Validation", "JUnit", "Mockito", "Postman", "API Testing"]
     }
   ]
 }
