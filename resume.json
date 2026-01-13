@@ -1,1 +1,117 @@
+{
+  "basics": {
+    "name": "Juliana Palma",
+    "label": "Software Engineer / DevOps Engineer",
+    "email": "jufpalma@yahoo.com.br",
+    "location": {
+      "city": "Celina",
+      "region": "TX",
+      "countryCode": "US"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/juliana-palma/"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/julpalma"
+      }
+    ]
+  },
+
+  "work": [
+    {
+      "name": "Cisco Systems",
+      "position": "DevOps / Backend Engineer",
+      "startDate": "2019-12",
+      "endDate": "2024-12",
+      "summary": "Backend and DevOps engineer working on cloud-based communication platforms.",
+      "highlights": [
+        "Developed and maintained Java and Spring Boot microservices for Webex Calling",
+        "Built and maintained CI/CD pipelines using Jenkins, Docker, and Git, automating build, test, and deployment workflows",
+        "Improved monitoring and observability using Grafana and Kibana to analyze logs, metrics, and events",
+        "Participated in incident response and root cause analysis, supporting customer escalations and improving system reliability",
+        "Integrated services using REST APIs and Kafka for asynchronous communication",
+        "Conducted API testing and data validation using Postman and SQL, verifying correct system behavior and data integrity",
+        "Developed and maintained unit, functional, and integration tests using JUnit and Mockito to improve test coverage and reduce production defects",
+        "Worked in Agile teams delivering highly available backend services"
+      ]
+    },
+    {
+      "name": "Ericsson",
+      "position": "Software Engineer – ECM Project",
+      "startDate": "2017-01",
+      "endDate": "2019-01",
+      "summary": "Backend engineer working on Ericsson Catalog Manager (ECM).",
+      "highlights": [
+        "Developed, integrated, and tested backend software using JavaScript for ECM to process JSON objects via REST APIs",
+        "Executed functional and regression testing using Postman collections",
+        "Supported defect tracking and verification using Git and Gerrit workflows"
+      ]
+    },
+    {
+      "name": "Ericsson",
+      "position": "Software Engineer – CSCF Project",
+      "startDate": "2012-09",
+      "endDate": "2017-01",
+      "summary": "Backend and test engineer working on Call Session Control Function (CSCF).",
+      "highlights": [
+        "Configured and validated call control features through system and integration testing",
+        "Troubleshot and verified fixes for Trouble Reports (TRs), ensuring system stability",
+        "Enhanced Python scripts to improve test automation and efficiency"
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Concordia University",
+      "studyType": "Graduate Certificate",
+      "area": "Business Administration",
+      "location": {
+        "city": "Montreal",
+        "countryCode": "CA"
+      }
+    },
+    {
+      "institution": "Metrocamp University",
+      "studyType": "Post-Graduation",
+      "area": "IP Multimedia Technology",
+      "location": {
+        "city": "Campinas",
+        "countryCode": "BR"
+      }
+    },
+    {
+      "institution": "University of San Francisco",
+      "studyType": "Bachelor",
+      "area": "System Analysis",
+      "location": {
+        "city": "Itatiba",
+        "countryCode": "BR"
+      }
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Backend",
+      "keywords": ["Java", "Spring Boot", "REST APIs", "Microservices"]
+    },
+    {
+      "name": "DevOps",
+      "keywords": ["Docker", "Jenkins", "CI/CD", "Kubernetes"]
+    },
+    {
+      "name": "Messaging & Monitoring",
+      "keywords": ["Kafka", "Grafana", "Kibana"]
+    },
+    {
+      "name": "Databases",
+      "keywords": ["PostgreSQL", "MySQL"]
+    }
+  ]
+}
+
 
