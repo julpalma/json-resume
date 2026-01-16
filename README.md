@@ -36,7 +36,6 @@
   * Pages may take 30–90 seconds to refresh
   * Hard refresh your browser (Cmd + Shift + R on Mac) if needed
   * Your updated resume should be visible at:
-
     https://julpalma.github.io/json-resume/JulianaPalma_Resume.html
 
 
