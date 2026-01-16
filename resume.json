@@ -23,7 +23,7 @@
   "work": [
     {
       "name": "Cisco Systems",
-      "position": "DevOps / Backend Engineer",
+      "position": "DevOps / Backend Engineer - Canada",
       "startDate": "2019-12",
       "endDate": "2024-12",
       "summary": "Backend and DevOps engineer working on cloud-based communication platforms.",
@@ -40,7 +40,7 @@
     },
     {
       "name": "Ericsson",
-      "position": "Software Engineer – ECM Project",
+      "position": "Software Engineer – ECM Project- Canada",
       "startDate": "2017-01",
       "endDate": "2019-01",
       "summary": "Backend engineer working on Ericsson Catalog Manager (ECM).",
@@ -52,14 +52,28 @@
     },
     {
       "name": "Ericsson",
-      "position": "Software Engineer – CSCF Project",
+      "position": "Software Engineer – CSCF Project - Canada",
       "startDate": "2012-09",
       "endDate": "2017-01",
       "summary": "Backend and test engineer working on Call Session Control Function (CSCF).",
       "highlights": [
-        "Configured and validated call control features through system and integration testing",
-        "Troubleshot and verified fixes for Trouble Reports (TRs), ensuring system stability",
-        "Enhanced Python scripts to improve test automation and efficiency"
+        "Solid experience with CSCF (Call Session Control Function) configuration",
+        "Developed, implemented, integrated, and tested complex CSCF configurations in C++ language",
+        "Executed complex call control configurations through system and integration testing, ensuring the stability of core telecommunications infrastructure",
+        "Received the Special Achievement Recognition Award for excellent contributions to the CSCF software configurations",
+        "Fixed, improved, and tested scripts in Python continuously contributing to performance improvement"
+      ]
+    },
+    {
+      "name": "Ericsson",
+      "position": "Software Tester – AXE Project - Brazil",
+      "startDate": "2006-06",
+      "endDate": "2012-08",
+      "summary": "Test engineer working on AXE Project.",
+      "highlights": [
+        "Developed and tested code using PLEX programming language developed by Ericsson",
+        "PLEX was designed for programming the control systems of Ericsson's AXE telephone exchanges",
+        "Developed and executed test cases using TTCN tool"
       ]
     }
   ],
